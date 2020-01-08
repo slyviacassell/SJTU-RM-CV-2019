@@ -13,9 +13,9 @@
 
 **如有BUG或者想交流的朋友欢迎积极联系我们**
 
----
+**分享部分比赛时摄像头录制的视频:**
 
-2019-9-9更新：[开源代码详解](https://xinyang-go.github.io/jiaolong-cv-novice-tutorial/RM2019-code-annotate/)
+链接: https://pan.baidu.com/s/1LwxEpeYYblX3cSzb59MTVg 提取码: 84ju 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 ---
 
@@ -65,6 +65,8 @@ sudo ./run
 ### 2.调试方式
 
 ```./run --help```可以查看所有命令行参数及其作用。所有调试选项都集成到了命令行参数中。
+
+**不使用任何参数直接运行将没有任何图像显示。**
 
 需要调参的部分：主要需要根据车辆情况而调参的参数存放在others/include/config/setconfig.h中
 
